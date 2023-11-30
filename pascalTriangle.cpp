@@ -34,7 +34,7 @@ int main()
         for (auto ele : it) {
             cout << ele << " ";
         }
-        cout << "n";
+        cout << "\n";
     }
     return 0;
 }
